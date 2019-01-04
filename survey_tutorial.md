@@ -96,9 +96,16 @@ You can edit, remove or add questions at any time by selecting _Manage Questions
 
 ### Task 2
 
-To add questions for the second task select _Manage Questions_ in the taskbar of the **Image statements** task. You will notice that the layout is slightly different and you can add two pictures as questions but no text. Here, we will present the participant with a word (a prime) followed by two answer options in the form of pictures. Participants should indicate which pictures matches the word best. First, select the two pictures you want to present and select _Create New Question_. Then, select Edit to add a Prime to the question. This prime can be text or an additional picture, depending on your instructions or expected outcome of your study.
+To add questions for the second task select _Manage Questions_ in the taskbar of the **Image statements** task. You will notice that the layout is slightly different and you can add two pictures as questions but no text. Here, we will present the participant with a word (a prime) followed by two answer options in the form of pictures. Participants should indicate which pictures matches the word best. First, select the two pictures you want to present and select _Create New Question_. Then, select _Edit_ to add a Prime to the question. This prime can be text or an additional picture, depending on your instructions or expected outcome of your study.
 
-For the sake of this tutorial we will keep it simple and use a constant 500ms prime ('Tasteful') for four unique trials. Every trial has a different set of pictures:
+For the sake of this tutorial we will keep it simple and use a constant 500ms prime for four unique trials (the word 'Tasteful'):
+
+- Select the Text tab (default)
+- Insert the duration of your prime (500ms)
+- Insert the prime word in the textbox ('Tasteful')
+- Select add prime and it appears as a new item
+
+Do this for four different trials. Every trial should have a different set of pictures:
 
 ![Image statements trials](images/2019/01/image_statements_trials.png)
 
@@ -117,4 +124,16 @@ Finally, we want the order of the questions to be sequential instead of randomiz
 
 ## Step 4 - Test and distribute your experiment
 
-Now that the questions are added all three tasks are finished. It is time to test the tasks and see if it needs some additional updates or work.
+Now that the questions are added, all three tasks are finished. It is time to test the tasks and see if it needs some additional updates or work. Return to the Experiments menu and select **Test url**. A new tab will open and directly leads you to the start of your experiment. As soon as you click _Next_ the experiment will start. You can use the **Test url** as many times as you like.
+
+![Test screen](images/2019/01/test_url.png)
+
+Once you are satisfied with your study, it is time to distribute the experiment to your participants. In the main _Experiment_ screen select **QR + code** to obtain your experiment's unique QR-code and link.
+
+![QR Code](images/2019/01/qr_code_link.png)
+
+Both the QR-code and the URL lead to the experiment start screen. On this screen you will see a few of the elements that were discussed at the start of this tutorial. Participants can select the informed consent or study information and both will appears as a pop-up on the screen. Furthermore, participants must actively agree to participate in your research by checking the box. Lastly, unique in WBW participants have the option to inspect and/or retract all their data after completing the study. They will have to provide their e-mail address to obtain a registration link afterwards though. This can be done on this screen as well.
+
+![Experiment start](images/2019/01/experiment_start_screen.png)
+
+That completes this tutorial. Once you have collected some data the main results will be visualised in the **Chart Results** section, while you can download the raw data in the **Results** section. You can find more on these option in the _How to use_ section or in the next tutorial.
