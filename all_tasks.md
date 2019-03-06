@@ -36,9 +36,9 @@ Click on a type of task for a step-by-step guide:
 - [**Instructions**](#instructions) - Use this task to display instructions or any other type of information to your participants. It can be used anywhere within the experiment and does not require a response. Please note that every other type of task automatically contains an instructions option.
 
 - [**Open Questions**](#open-questions) - Use this task to present open questions. Participants will see a textbox in which they can respond. Response is not mandatory.
--
+
 - [**Multiple Choice with statements**](#multiple-choice-with-statements) - This task displays a multiple choice question. You can choose any answer option or statement you want, with a maximum of 9 options. Participants must and can select only one option.
--
+
 - [**Multiple Choice with ratings**](#multiple-choice-with-ratings) - This task displays a multiple choice question with five answer options, ranging from 'Strongly Disagree' to 'Strongly Agree.
 
 - [**Statements with emoticons**](#statements-with-emoticons) - Use this task to present statements (or questions). Participants have to select one out of four emoticons, indicating their agreement ('Strongly agree, Somewhat agree, Somewhat disagree, Strongly disagree')
