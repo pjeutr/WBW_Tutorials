@@ -1,3 +1,6 @@
+---
+title: This will be used as the title-tag of the page head
+---
 ## Create Experiment
 
 - Select **Experiments** in menu on the left side of the screen
